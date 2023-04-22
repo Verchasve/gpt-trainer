@@ -10,7 +10,7 @@ const { Configuration, OpenAIApi } = require("openai");
 //const openai = new OpenAIApi(configuration);
 
 const configuration = new Configuration({
-    apiKey:'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' , });
+    apiKey:'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' , });
 
     const openai = new OpenAIApi(configuration);
  const spinner = new Spinner('Loading ... &s');   
